@@ -1,0 +1,5 @@
+env/
+__pycache__/
+*.pyc
+tmp_query.jpg
+uploaded_images/_query_*.jpg
